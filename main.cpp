@@ -1,5 +1,6 @@
 #include <iostream>
 #include "tests.h"
+#include "LR1_algorithm.h"
 
 int main() {
   int successful_tests_number = 0;
