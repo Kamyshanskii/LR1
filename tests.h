@@ -1,4 +1,5 @@
-#include "LR1_algorithm.h"
+#include <vector>
+#include <string>
 
 struct test {
   const std::vector<std::string> rules;
